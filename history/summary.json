@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sysapp.org.ico",
     "slug": "sy-s-app",
     "status": "down",
-    "uptime": "1.13%",
-    "uptimeDay": "1.13%",
-    "uptimeWeek": "1.13%",
-    "uptimeMonth": "1.13%",
-    "uptimeYear": "1.13%",
-    "time": 194,
-    "timeDay": 194,
-    "timeWeek": 194,
-    "timeMonth": 194,
-    "timeYear": 194,
+    "uptime": "21.25%",
+    "uptimeDay": "21.25%",
+    "uptimeWeek": "21.25%",
+    "uptimeMonth": "21.25%",
+    "uptimeYear": "21.25%",
+    "time": 179,
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-09-07": 0
+      "2024-09-07": 21
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/runkang10.sysapp.org.ico",
     "slug": "runkang10",
     "status": "down",
-    "uptime": "3.63%",
-    "uptimeDay": "3.63%",
-    "uptimeWeek": "3.63%",
-    "uptimeMonth": "3.63%",
-    "uptimeYear": "3.63%",
-    "time": 193,
-    "timeDay": 193,
-    "timeWeek": 193,
-    "timeMonth": 193,
-    "timeYear": 193,
+    "uptime": "28.78%",
+    "uptimeDay": "28.78%",
+    "uptimeWeek": "28.78%",
+    "uptimeMonth": "28.78%",
+    "uptimeYear": "28.78%",
+    "time": 173,
+    "timeDay": 173,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {
-      "2024-09-07": 0
+      "2024-09-07": 19
     }
   }
 ]
