@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 98,
-    "timeDay": 98,
-    "timeWeek": 98,
-    "timeMonth": 98,
-    "timeYear": 98,
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {
-      "2024-09-08": 0
+      "2024-09-09": 48,
+      "2024-09-08": 786
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/runkang10.sysapp.org.ico",
     "slug": "runkang10",
     "status": "down",
-    "uptime": "0.81%",
-    "uptimeDay": "0.81%",
-    "uptimeWeek": "0.81%",
-    "uptimeMonth": "0.81%",
-    "uptimeYear": "0.81%",
-    "time": 171,
-    "timeDay": 171,
-    "timeWeek": 171,
-    "timeMonth": 171,
-    "timeYear": 171,
+    "uptime": "0.43%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.43%",
+    "uptimeMonth": "0.43%",
+    "uptimeYear": "0.43%",
+    "time": 169,
+    "timeDay": 173,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {
-      "2024-09-08": 654,
+      "2024-09-09": 48,
+      "2024-09-08": 1440,
       "2024-09-07": 267
     }
   }
