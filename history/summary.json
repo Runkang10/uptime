@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/runkang10.vercel.app.ico",
     "slug": "runkang10",
     "status": "up",
-    "uptime": "66.48%",
+    "uptime": "66.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "68.53%",
+    "uptimeYear": "68.80%",
     "time": 183,
-    "timeDay": 112,
-    "timeWeek": 131,
+    "timeDay": 151,
+    "timeWeek": 140,
     "timeMonth": 175,
     "timeYear": 183,
     "dailyMinutesDown": {
@@ -137,8 +137,7 @@
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
-      "2024-09-21": 1440,
-      "2024-09-20": 1440
+      "2024-09-21": 1440
     }
   }
 ]
